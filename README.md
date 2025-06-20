@@ -60,15 +60,14 @@ g++ -std=c++17 main.cpp -o cnn
 ### Capturas
 Teniendo como entrada una imagen rgb de 8x8
 
-![1](https://github.com/user-attachments/assets/f112d2d5-29a5-4282-9ce2-7544e060dba4)
+![1](https://github.com/user-attachments/assets/2d6c8f6a-fd92-432f-a535-257494192edc)
 
-![2](https://github.com/user-attachments/assets/5600a003-a791-4aa3-97dd-c1b378078590)
+![2](https://github.com/user-attachments/assets/b470d14f-0fee-4e69-8281-5537bfd4b371)
 
-![3](https://github.com/user-attachments/assets/cf2c140b-9034-448e-b1f8-4d9fc259e2ff)
+![3](https://github.com/user-attachments/assets/4aac4793-6c58-4780-a7fa-d19a515a4281)
 
-![4](https://github.com/user-attachments/assets/9448347c-9c5e-4e35-857c-77afe4a709ea)
+![4](https://github.com/user-attachments/assets/8ca1742f-9324-4651-911a-ee066ff892c2)
 
-![5](https://github.com/user-attachments/assets/e156bbc0-afe2-44bb-ae1e-8c1a007c383d)
-
+![5](https://github.com/user-attachments/assets/df3138e2-26df-433e-9bdb-37978ff757b8)
 
 
