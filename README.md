@@ -58,6 +58,8 @@ g++ -std=c++17 main.cpp -o cnn
 ```
 
 ### Capturas
+Teniendo como entrada una imagen rgb de 8x8
+
 ![1](https://github.com/user-attachments/assets/f112d2d5-29a5-4282-9ce2-7544e060dba4)
 
 ![2](https://github.com/user-attachments/assets/5600a003-a791-4aa3-97dd-c1b378078590)
