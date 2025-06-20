@@ -1,6 +1,6 @@
 # Convolutional Neural Network (CNN) en C++ Moderno
 
-Este proyecto implementa una red neuronal convolucional (CNN) sencilla y modular en **C++ moderno**, con énfasis en claridad, encapsulamiento y paralelismo básico. Ideal para comprender los fundamentos de las CNN sin depender de frameworks externos.
+Este proyecto implementa una red neuronal convolucional (CNN) sencilla y modular en **C++ moderno**, con énfasis en claridad y encapsulamiento.
 
 ## Características
 
