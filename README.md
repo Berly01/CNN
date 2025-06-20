@@ -21,7 +21,6 @@ Clase genérica de matriz con soporte para:
 - Operaciones aritméticas
 - Transpuesta y aplanamiento
 - Serialización binaria
-- Paralelismo básico con `std::thread`
 
 ### `ConvLayer<T>`
 
@@ -31,6 +30,11 @@ Encapsula una capa convolucional con:
 - Activación ReLU
 - Pooling (opcional)
 - Parámetros por capa: `stride`, `padding`, `pool_size`, `pool_mode`
+
+### `MLP`
+- Inicializacion personalizada `Xavier`, `He`, `Random`
+- Activacion personalizada `sigmoid`, `relu`, `tanh`
+- Softmax
 
 ```cpp
 ConvLayer<double> capa({
