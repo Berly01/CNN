@@ -122,6 +122,8 @@ public:
 
             std::cout << "*************COLVOLUCION " << k << "*************\n";
             Matrix<T> feature = convolveMultiChannel(input_channels, kernel_set);
+            
+            std::cout << "*************CARACTERISTICAS*************\n";
             if (h_.debug) std::cout << feature << "\n";
         
             if (h_.relu) {
