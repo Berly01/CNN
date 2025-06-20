@@ -58,7 +58,14 @@ g++ -std=c++17 main.cpp -o cnn
 ```
 
 ### Capturas
-Teniendo como entrada una imagen rgb de 8x8
+- Teniendo como entrada una imagen rgb de 8x8
+- 2 kernels de 3x3 para rgb
+- padding = 1
+- stride = 1
+- pool size = 2
+- pool mode = max
+- relu = true
+- MLP con 10 neuronas de salida
 
 ![1](https://github.com/user-attachments/assets/2d6c8f6a-fd92-432f-a535-257494192edc)
 
