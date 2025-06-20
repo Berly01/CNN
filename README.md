@@ -31,21 +31,9 @@ Encapsula una capa convolucional con:
 - Pooling (opcional)
 - Parámetros por capa: `stride`, `padding`, `pool_size`, `pool_mode`
 
-```cpp
-ConvLayer<double> capa({
-    kernel_rgb_1,  // vector<Matrix<double>> (R, G, B)
-    kernel_rgb_2
-}, 1, 1, true, true, 2, "max");
-```
-
 ### CNN<T>
 
 Encapsula una red con múltiples capas convolucionales.
-
-```cpp
-CNN<double> red({ capa1, capa2 });
-auto salida = red.forward(entrada_rgb);
-```
 
 ### `MLP`
 - Inicializacion personalizada `Xavier`, `He`, `Random`
